@@ -1,0 +1,1 @@
+An interactive Excel-based sales analytics dashboard that evaluates supermarket performance from 2015–2018. The dashboard provides insights into sales, profit, YoY growth, category and regional performance using dynamic KPIs, pivot charts, and slicers to support data-driven decision-making.
